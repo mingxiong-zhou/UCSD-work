@@ -1,4 +1,4 @@
-% Author: <Mingxiong Zhou>   Date: 2026-07-24   Repo: 
+% Author: <Mingxiong Zhou>   Date: 2026-07-24   Repo: https://github.com/mingxiong-zhou/UCSD-work.git
 
 %% 2-D truss (both pinned)
 clear S L, disp('2-D Modified Queenpost truss, both supports pinned')
