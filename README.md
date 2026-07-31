@@ -1,2 +1,4 @@
 This is a repository of UCSD assignments
 MAE30A-Thomas Bewley
+HW3
+EXTRA CREDIT final project
